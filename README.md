@@ -38,3 +38,5 @@ Students Data
 
 ## My Self 
 ![My Profile pic](https://i0.wp.com/www.opindia.com/wp-content/uploads/2020/06/atif.jpg?fit=1200%2C871&ssl=1)
+
+I am living in [Guntur](https://www.tripadvisor.in/Attractions-g12421913-Activities-Guntur_District_Andhra_Pradesh.html), AP, INDIA 
