@@ -18,26 +18,26 @@ CREATE TABLE Students (
 INSERT INTO
     Students
 VALUES
-    (1, "Shaik",             "Guntur"),
-    (2, "Khaja",             "Vijayawada"),
-    (3, "Afrid",             "Kakinada"),
-    (4, "Shaik_Khaja_Afrid", "Guntur")
+    (1, "Shaik_Khaja_Afrid", "Guntur"),
+    (2, "R.Pavan_Kumar",     "Bangalore"),
+    (3, "Shaik_Imtiyaz",     "Guntur"),
+    (4, "Shaik_Zahid",       "UK")
 ```
 
 Students Data
 
 | id | Name              | City       | 
 | -- | ----              | ----       |
-| 1  | Shaik             | Guntur     | 
-| 2  | Khaja             | Vijayawada | 
-| 3  | Afrid             | Kakinada   | 
-| 4  | Shaik_Khaja_Afrid | Guntur     | 
+| 1  | Shaik_Khaja_Afrid | Guntur     | 
+| 2  | R.Pavan_Kumar     | Bangalore  | 
+| 3  | Shaik_Imtiyaz     | Guntur     | 
+| 4  | Shaik_Zahid       | UK         | 
 
 
 
 
 ## My Self 
-![My Profile pic](https://i0.wp.com/www.opindia.com/wp-content/uploads/2020/06/atif.jpg?fit=1200%2C871&ssl=1)
+![My Profile pic](https://i.pinimg.com/736x/71/2f/b3/712fb3ccf424709c0adccee8f0dca953.jpg)
 
 I am living in [Guntur](https://www.tripadvisor.in/Attractions-g12421913-Activities-Guntur_District_Andhra_Pradesh.html), AP, INDIA 
 
