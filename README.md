@@ -37,4 +37,4 @@ Students Data
 
 
 ## My Self 
-![My Profile pic](https://www.instagram.com/p/CPXc7v4hGh_/)
+![My Profile pic](https://i0.wp.com/www.opindia.com/wp-content/uploads/2020/06/atif.jpg?fit=1200%2C871&ssl=1)
