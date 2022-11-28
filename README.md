@@ -7,7 +7,7 @@ Students Database
 ```sql
 CREATE TABLE Students (
     "id"    INT,
-    "name"  VARCHAR(20)'
+    "name"  VARCHAR(20),
     "city"  VARCHAR(20)
 );
 ```
