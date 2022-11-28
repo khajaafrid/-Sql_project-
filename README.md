@@ -26,5 +26,9 @@ VALUES
 
 Students Data
 
-| id | Name | City | 
-| ---| ---- | ---- |
+| id | Name              | City       | 
+| -- | ----              | ----       |
+| 1  | Shaik             | Guntur     | 
+| 2  | Khaja             | Vijayawada | 
+| 3  | Afrid             | Kakinada   | 
+| 4  | Shaik_Khaja_Afrid | Guntur     | 
