@@ -23,3 +23,8 @@ VALUES
     (3, "Afrid", "Kakinada"),
     (4, "Shaik_Khaja_Afrid", "Guntur")
 ```
+
+Students Data
+
+| id | Name | City | 
+| ---| ---- | ---- |
