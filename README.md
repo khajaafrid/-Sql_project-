@@ -32,3 +32,9 @@ Students Data
 | 2  | Khaja             | Vijayawada | 
 | 3  | Afrid             | Kakinada   | 
 | 4  | Shaik_Khaja_Afrid | Guntur     | 
+
+
+
+
+## My Self 
+![My Profile pic](https://www.instagram.com/p/CPXc7v4hGh_/)
