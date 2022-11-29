@@ -37,7 +37,7 @@ Students Data
 
 
 ## My Self 
-![My Profile pic](C:\Users\RIYAZ\OneDrive\Pictures\Saved Pictures\khaja\KH_01.jpg)
+![My Profile pic](https://i.pinimg.com/736x/71/2f/b3/712fb3ccf424709c0adccee8f0dca953.jpg)
 
 I am living in [Guntur](https://www.tripadvisor.in/Attractions-g12421913-Activities-Guntur_District_Andhra_Pradesh.html), AP, INDIA 
 
